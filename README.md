@@ -43,4 +43,5 @@
 
 ## Podcasts
 
-- [1º QAnsei - print(‘Hello World’)](https://anchor.fm/qansei/episodes/printHello-World-ed4jui/a-a20jvmg)
+- [**QAnsei** - Episódio _print(‘Hello World’)_](https://anchor.fm/qansei/episodes/printHello-World-ed4jui/a-a20jvmg)
+- [**Devs Cansados** - Episódio _22 = QA: Quem Atura?_](https://anchor.fm/devs-cansados/episodes/22--QA-Quem-Atura-eikcdt)
