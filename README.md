@@ -10,11 +10,11 @@
 
 ## Textos
 
-1. [QA, trate sua automação como software](https://dev.to/paulogoncalvesbh/qa-trate-sua-automacao-como-software-noo)
-1. [Entrega contínua no ServeRest 🚀](https://dev.to/paulogoncalvesbh/entrega-continua-no-serverest-hg3)
-1. [Aprenda conceitos de git, não comandos](https://dev.to/paulogoncalvesbh/aprenda-conceitos-de-git-nao-comandos-4il3)
-1. [Pare de usar `git push --force`](https://dev.to/paulogoncalvesbh/pare-de-usar-git-push-force-4ngd)
-1. [Teste de mutação 👽: O que é e como fica a cobertura de código?](https://dev.to/paulogoncalvesbh/testes-de-mutacao-1c7p)
+1. [Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
+1. [Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git)
+1. [QA, trate sua automação como software](https://github.com/PauloGoncalvesBH/QA-trate-sua-automacao-como-software)
+1. [Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
+1. [Pare de usar `git push --force`](https://github.com/PauloGoncalvesBH/Pare-de-usar-git-push--force)
 
 ## Contribuições em código
 
