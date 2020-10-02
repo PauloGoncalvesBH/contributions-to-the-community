@@ -20,7 +20,7 @@
 
 | Repositório / NPM | Participação | Sobre |
 |--|--|--|
-| **[ServeRest](https://www.npmjs.com/package/serverest)** | Autor | Servidor REST local de forma rápida e simples para estudo de testes de API <br> ![npm](https://img.shields.io/npm/dt/serverest?style=flat-square) |
+| **[ServeRest](https://www.npmjs.com/package/serverest)** | Autor | Servidor REST local de forma rápida e simples para estudo de testes de API <br> ![npm](https://img.shields.io/npm/dt/serverest?style=flat-square) ![docker pulls](https://img.shields.io/docker/pulls/paulogoncalvesbh/serverest?style=flat-square) |
 | **[Treinamento Git](https://github.com/PauloGoncalvesBH/treinamento-git)** | Autor | Treinamento sobre conceitos de Git, e não comandos <br> ![GitHub stars](https://img.shields.io/github/stars/paulogoncalvesbh/treinamento-git?style=flat-square) |
 | **[Sample Supertest](https://github.com/PauloGoncalvesBH/sample-supertest/)** | Autor | Exemplo de estrutura de automação feita com Supertest, Mocha, Chai, entre outras libs |
 | **[Protractor Style Guide](https://github.com/PauloGoncalvesBH/protractor-style-guide)** | Autor | Exemplo de estrutura de uma automação feita com Protractor |
