@@ -37,7 +37,6 @@
 | **[Chai](https://github.com/chaijs/chai)** | 2019 até o momento | Principal framework de asserção de testes em JS <br> ![npm](https://img.shields.io/npm/dm/chai?style=flat-square) |
 | **[Podcast QAnsei](https://anchor.fm/qansei)** | 2020 até o momento | Podcast do coletivo [Agile Testers](https://agiletesters.com.br/) focado em qualidade de software |
 | **[Meetup Testing Dojo Uai](https://www.meetup.com/pt-BR/Testing-Dojo-Uai/)** | 2017 a 2018 | Meetup de palestras e treinamentos em Belo Horizonte/MG |
-| **[Minas Testing Conference](http://minastestingconference.com.br/)** | 2020 | Evento anual de palestras em Belo Horizonte/MG |
 | **Meetup Floripa Testing** | 2019 | Meetup de palestras em Florianópolis/SC |
 | **[QA Brasil](https://github.com/qa-brasil)** | 2020 até o momento | Comunidade que visa a democratização do conhecimento em QA sem lucros |
 
