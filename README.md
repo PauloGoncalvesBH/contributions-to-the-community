@@ -4,6 +4,7 @@
 > _Conhecimento compartilhado é conhecimento dobrado_
 
 - [Textos](#textos)
+- [Palestras / Workshops](#palestras--workshops)
 - [Contribuições em código](#contribuições-em-código)
 - [Organização / Coordenação](#organização--coordenação)
 - [Podcasts](#podcasts)
@@ -15,6 +16,10 @@
 1. [QA, trate sua automação como software](https://github.com/PauloGoncalvesBH/QA-trate-sua-automacao-como-software)
 1. [Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
 1. [Pare de usar `git push --force`](https://github.com/PauloGoncalvesBH/Pare-de-usar-git-push--force)
+
+## Palestras / Workshops
+
+1. [Automação de API Rest - Jornada Learning](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
 
 ## Contribuições em código
 
