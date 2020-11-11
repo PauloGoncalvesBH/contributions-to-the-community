@@ -19,7 +19,8 @@
 
 ## Palestras / Workshops
 
-1. [Automação de API Rest - Jornada Learning](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
+1. [Automação de API Rest - Jornada Learning 2020](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
+1. [Quem testa os testes? (teste de mutação) - TDC Recife 2020](./Quem%20testa%20os%20testes%20-%20TDC%20Recife%202020.pdf)
 
 ## Contribuições em código
 
