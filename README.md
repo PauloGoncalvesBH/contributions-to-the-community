@@ -3,11 +3,16 @@
 > _Conhecimento retido é conhecimento perdido_<BR>
 > _Conhecimento compartilhado é conhecimento dobrado_
 
+- [Livros](#livros)
 - [Textos](#textos)
 - [Palestras / Workshops](#palestras--workshops)
 - [Contribuições em código](#contribuições-em-código)
 - [Organização / Coordenação](#organização--coordenação)
 - [Podcasts](#podcasts)
+
+## Livros
+
+- [Agile Testing Condensed - Brazilian Portuguese Edition](https://leanpub.com/agiletesting-condensed-brazilian-portuguese-edition/)
 
 ## Textos
 
@@ -46,6 +51,7 @@
 | **[Meetup Testing Dojo Uai](https://www.meetup.com/pt-BR/Testing-Dojo-Uai/)** | 2017 a 2018 | Meetup de palestras e treinamentos em Belo Horizonte/MG |
 | **Meetup Floripa Testing** | 2019 | Meetup de palestras em Florianópolis/SC |
 | **[QA Brasil](https://github.com/qa-brasil)** | 2020 até o momento | Comunidade que visa a democratização do conhecimento em QA sem lucros |
+| **[Coletivo Agile Testers](https://agiletesters.com.br/)** | 2020 até o momento | Coletivo de compartilhamento de conhecimento sobre qualidade de software e que mantém revista, podcast, fórum e lives.
 
 ## Podcasts
 
