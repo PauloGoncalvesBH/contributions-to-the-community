@@ -24,10 +24,12 @@
 
 ## Palestras / Workshops
 
-1. [Testes de mutação - Medindo a qualidade dos testes unitários - AT Talks](https://github.com/PauloGoncalvesBH/at-talks-testes-de-mutacao)
+1. [AT Talks: Testes de mutação - Medindo a qualidade dos testes unitários - Agile Testers](https://github.com/PauloGoncalvesBH/at-talks-testes-de-mutacao)
 1. [Automação de API Rest - Jornada Learning 2020](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
 1. [Quem testa os testes? (teste de mutação) - TDC Recife 2020](./Quem%20testa%20os%20testes%20-%20TDC%20Recife%202020.pdf)
-
+1. [Talk #104 - Teste de Mutação - Pagar.me Talks](https://www.youtube.com/watch?v=1RNRl3tEtKk)
+1. [AT Talks: Teste de Contrato com Pact - Agile Testers](https://www.youtube.com/watch?v=1c2JmM9dafA)
+  
 ## Contribuições em código
 
 | Repositório / NPM | Participação | Sobre |
