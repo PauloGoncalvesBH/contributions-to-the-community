@@ -39,6 +39,7 @@
 |--|--|--|
 | **[ServeRest](https://github.com/PauloGoncalvesBH/ServeRest)** | Autor | Servidor REST local de forma rápida e simples para estudo de testes de API <br> ![npm](https://img.shields.io/npm/dt/serverest?style=flat-square) ![docker pulls](https://img.shields.io/docker/pulls/paulogoncalvesbh/serverest?style=flat-square) |
 | **[Treinamento Git](https://github.com/PauloGoncalvesBH/treinamento-git)** | Autor | Treinamento sobre conceitos de Git, e não comandos <br> ![GitHub stars](https://img.shields.io/github/stars/paulogoncalvesbh/treinamento-git?style=flat-square) |
+| **[Nirvana - Teste de Contrato](https://github.com/PauloGoncalvesBH/nirvana-teste-de-contrato)** | Autor | Demonstração de como deve ser a implementação de pipeline e testes de contrato de aplicações provider e consumer de forma com que siga o que é considerado o Nirvana do Pact. |
 | **[Fundamento de funcionamento de spy e mock externo](https://github.com/PauloGoncalvesBH/my-framework-test)** | Autor | Estudo de como é a implementação interna de um spy, mock, expect e estrutura dos testes. Sem utilização de dependência externa como Jest. |
 | **[Sample Supertest](https://github.com/PauloGoncalvesBH/sample-supertest/)** | Autor | Exemplo de estrutura de automação feita com Supertest, Mocha, Chai, entre outras libs |
 | **[Protractor Style Guide](https://github.com/PauloGoncalvesBH/protractor-style-guide)** | Autor | Exemplo de estrutura de uma automação feita com Protractor |
