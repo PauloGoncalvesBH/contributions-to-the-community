@@ -9,6 +9,14 @@
 - [Contribuições em código](#contribuições-em-código)
 - [Organização / Coordenação](#organização--coordenação)
 - [Podcasts](#podcasts)
+  
+<p align="center">
+<a href="https://www.alura.com.br/stars">
+ <img alt="Logo da Alura Stars" src="https://user-images.githubusercontent.com/29241659/130713060-544342dd-a33c-4ef8-800e-9d82cc3a1551.png" height="80">
+ <br>
+ <b>Membro Alura Stars</b>
+ </a>
+</p>
 
 ## Livros
 
