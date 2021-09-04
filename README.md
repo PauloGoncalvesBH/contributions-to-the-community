@@ -40,6 +40,7 @@
 1. [DevTests #28: Como implementar teste de contrato com Pact](https://www.youtube.com/watch?v=e1-FK4aJgV4)
 1. [Importância dos testes unitários - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
 1. [DevCia Live talks - Testes - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
+1. [Talk #118: Rodando Teste com Playwright na AWS Lambda - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
   
 ## Contribuições em código
 
