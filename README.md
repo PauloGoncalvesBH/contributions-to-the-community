@@ -75,3 +75,4 @@
 
 - [**QAnsei** - Episódio _print(‘Hello World’)_](https://anchor.fm/qansei/episodes/printHello-World-ed4jui/a-a20jvmg)
 - [**Devs Cansados** - Episódio _22 = QA: Quem Atura?_](https://anchor.fm/devs-cansados/episodes/22--QA-Quem-Atura-eikcdt)
+- [**Scuba Dev** - QA sênior e deficiente auditivo: Paulo Gonçalves](https://www.scuba.dev.br/2021/11/01/qa-senior-e-deficiente-auditivo-paulo-goncalves/)
