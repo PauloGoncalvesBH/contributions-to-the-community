@@ -3,6 +3,7 @@
 > _Conhecimento retido é conhecimento perdido_<BR>
 > _Conhecimento compartilhado é conhecimento dobrado_
 
+- [Miscelânea](#miscelânea)
 - [Livros](#livros)
 - [Textos](#textos)
 - [Palestras / Workshops](#palestras--workshops)
@@ -17,6 +18,9 @@
  <b>Membro Alura Stars</b>
  </a>
 </p>
+  
+## Miscelânea
+- [Formação Alura - Carreira QA: processos e automação de testes](https://www.alura.com.br/formacao-carreira-tester-qa). Responsável por montar a estrutura, detalhar quais conteúdos não poderiam faltar e tudo que era necessário para que novos QAs fossem formados com uma boa base de conhecimento.
 
 ## Livros
 
