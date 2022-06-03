@@ -45,6 +45,7 @@
 1. [Importância dos testes unitários - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
 1. [DevCia Live talks - A importância dos testes unitários - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
 1. [Talk #118: Rodando Teste com Playwright na AWS Lambda - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
+1. [Porque teste de contrato é diferente de teste de API validando schema? - TDC Floripa 2022 | Sem gravação](https://www.canva.com/design/DAEgPhppSCc/V64sJX8p491lfgcTesGquQ/view)
   
 ## Contribuições em código
 
