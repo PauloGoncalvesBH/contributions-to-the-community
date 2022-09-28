@@ -46,8 +46,8 @@
 1. [DevCia Live talks - A importância dos testes unitários - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
 1. [Talk #118: Rodando Teste com Playwright na AWS Lambda - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
 1. [TDC Innovation 2022: Porque teste de contrato é diferente de teste de API validando schema? - 02/06/22](https://www.youtube.com/watch?v=i8SaIjEum0Q)
-1. [Codecon: DevQA > Como medir qualidade de código? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo)
-  
+1. [Codecon: DevQA > Como medir qualidade de código? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo) [- Video](https://youtu.be/R-49ah1CWiI?t=20905)
+
 ## Contribuições em código
 
 | Repositório / NPM | Participação | Sobre |
