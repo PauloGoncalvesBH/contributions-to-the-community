@@ -1,85 +1,84 @@
-# Contribuições na comunidade de Qualidade de Software
 
-> _Conhecimento retido é conhecimento perdido_<BR>
-> _Conhecimento compartilhado é conhecimento dobrado_
+# Contributions to the Software Quality community
 
-- [Miscelânea](#miscelânea)
-- [Livros](#livros)
-- [Textos](#textos)
-- [Palestras / Workshops](#palestras--workshops)
-- [Contribuições em código](#contribuições-em-código)
-- [Organização / Coordenação](#organização--coordenação)
+- [Miscellaneous](#miscellaneous)
+- [Books](#books)
+- [Texts](#texts)
+- [Talks / Workshops](#talks--workshops)
+- [Code Contributions](#code-contributions)
+- [Organization / Coordination](#organization--coordination)
 - [Podcasts](#podcasts)
-  
+
 <p align="center">
 <a href="https://www.alura.com.br/stars">
  <img alt="Logo da Alura Stars" src="https://user-images.githubusercontent.com/29241659/130713060-544342dd-a33c-4ef8-800e-9d82cc3a1551.png" height="80">
  <br>
- <b>Membro Alura Stars</b>
+ <b>Alura Stars member</b>
  </a>
 </p>
-  
-## Miscelânea
-- [Formação Alura - Carreira QA: processos e automação de testes](https://www.alura.com.br/formacao-carreira-tester-qa). Responsável por montar a estrutura, detalhar quais conteúdos não poderiam faltar e tudo que era necessário para que novos QAs fossem formados com uma boa base de conhecimento.
 
-## Livros
+## Miscellaneous
+- [Alura Training - QA Career: processes and test automation](https://www.alura.com.br/formacao-carreira-tester-qa). Responsible for setting up the structure of the first QA formation from Alura, detailing what content could not be missing, and everything necessary for new QAs to be trained with a good knowledge base.
+
+## Books
 
 - [Agile Testing Condensed - Brazilian Portuguese Edition](https://leanpub.com/agiletesting-condensed-brazilian-portuguese-edition/)
 
-## Textos
+## Texts
 
-1. [Teste de mutação 👽: O que é e como fica a cobertura de código?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
-1. [Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git)
-1. [QA, trate sua automação como software](https://github.com/PauloGoncalvesBH/QA-trate-sua-automacao-como-software)
-1. [Entrega contínua no ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
-1. [Pare de usar `git push --force`](https://github.com/PauloGoncalvesBH/Pare-de-usar-git-push--force)
+1. [Mutation testing 👽: What it is and how it affects code coverage?](https://github.com/PauloGoncalvesBH/teste-de-mutacao)
+1. [Learn Git concepts, not commands](https://github.com/PauloGoncalvesBH/treinamento-git)
+1. [QA, treat your automation as software](https://github.com/PauloGoncalvesBH/QA-trate-sua-automacao-como-software)
+1. [Continuous delivery at ServeRest 🚀](https://github.com/PauloGoncalvesBH/entrega-continua-no-serverest)
+1. [Stop using `git push --force`](https://github.com/PauloGoncalvesBH/Pare-de-usar-git-push--force)
 
-## Palestras / Workshops
+## Talks / Workshops
 
-1. [AT Talks: Testes de mutação - Medindo a qualidade dos testes unitários - Agile Testers](https://github.com/PauloGoncalvesBH/at-talks-testes-de-mutacao)
-1. [Automação de API Rest - Jornada Learning 2020](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
-1. [Quem testa os testes? (teste de mutação) - TDC Recife 2020](./Quem%20testa%20os%20testes%20-%20TDC%20Recife%202020.pdf)
-1. [Talk #104 - Teste de Mutação - Pagar.me Talks](https://www.youtube.com/watch?v=1RNRl3tEtKk)
-1. [AT Talks: Teste de Contrato com Pact - Agile Testers](https://www.youtube.com/watch?v=1c2JmM9dafA)
-1. [DevTests #28: Como implementar teste de contrato com Pact](https://www.youtube.com/watch?v=e1-FK4aJgV4)
-1. [Importância dos testes unitários - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
-1. [DevCia Live talks - A importância dos testes unitários - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
-1. [Talk #118: Rodando Teste com Playwright na AWS Lambda - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
-1. [TDC Innovation 2022: Porque teste de contrato é diferente de teste de API validando schema? - 02/06/22](https://www.youtube.com/watch?v=i8SaIjEum0Q)
-1. [Codecon: DevQA > Como medir qualidade de código? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo) [- Video](https://youtu.be/R-49ah1CWiI?t=20905)
+1. [AT Talks: Mutation Testing - Measuring the Quality of Unit Tests - Agile Testers](https://github.com/PauloGoncalvesBH/at-talks-testes-de-mutacao)
+2. [REST API Automation - Jornada Learning 2020](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
+3. [Who Tests the Tests? (Mutation Testing) - TDC Recife 2020](./Quem%20testa%20os%20testes%20-%20TDC%20Recife%202020.pdf)
+4. [Talk #104 - Mutation Testing - Pagar.me Talks](https://www.youtube.com/watch?v=1RNRl3tEtKk)
+5. [AT Talks: Contract Testing with Pact - Agile Testers](https://www.youtube.com/watch?v=1c2JmM9dafA)
+6. [DevTests #28: How to Implement Contract Testing with Pact](https://www.youtube.com/watch?v=e1-FK4aJgV4)
+7. [Importance of Unit Tests - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
+8. [DevCia Live talks - The Importance of Unit Tests - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
+9. [Talk #118: Running Playwright Tests on AWS Lambda - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
+10. [TDC Innovation 2022: Why Contract Testing Is Different from API Testing Validating Schema? - 02/06/22](https://www.youtube.com/watch?v=i8SaIjEum0Q)
+11. [Codecon: DevQA > How to Measure Code Quality? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo) [- Video](https://youtu.be/R-49ah1CWiI?t=20905)
 
-## Contribuições em código
 
-| Repositório / NPM | Participação | Sobre |
+## Code Contributions
+
+| Repository / NPM | Participation | About |
 |--|--|--|
-| **[ServeRest](https://github.com/PauloGoncalvesBH/ServeRest)** | Autor | Servidor REST local de forma rápida e simples para estudo de testes de API <br> ![Repository stars](https://img.shields.io/github/stars/serverest/serverest?style=flat-square) ![npm](https://img.shields.io/npm/dt/serverest?style=flat-square) ![docker pulls](https://img.shields.io/docker/pulls/paulogoncalvesbh/serverest?style=flat-square) |
-| **[Running E2E test on AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)** | Autor | Running hundreds of Playwright tests in a few seconds with AWS Lambda <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/running-playwright-on-aws-lambda?style=flat-square) |
-| **[Teste unitário em aplicação Serverless](https://github.com/PauloGoncalvesBH/lambda-unit-test)** | Autor | Demonstração de implementação de teste unitário em aplicação Serverless utilizando a biblioteca 'lambda-tester' |
-| **[Aprenda Test Driven Development (TDD) na prática](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)** | Autor | Uma breve introdução prática a Test Driven Development (TDD) em JavaScript para pessoas que querem escrever códigos mais confiáveis <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/aprenda-tdd-na-pratica?style=flat-square) |
-| **[Treinamento Git](https://github.com/PauloGoncalvesBH/treinamento-git)** | Autor | Treinamento sobre conceitos de Git, e não comandos <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/treinamento-git?style=flat-square) |
-| **[Nirvana - Teste de Contrato](https://github.com/PauloGoncalvesBH/contract-test-nirvana)** | Autor | Demonstração de como deve ser a implementação de pipeline e testes de contrato de aplicações provider e consumer de forma com que siga o que é considerado o Nirvana do Pact. |
-| **[Fundamento de funcionamento de spy e mock externo](https://github.com/PauloGoncalvesBH/my-framework-test)** | Autor | Estudo de como é a implementação interna de um spy, mock, expect e estrutura dos testes. Sem utilização de dependência externa como Jest. |
-| **[Sample Supertest](https://github.com/PauloGoncalvesBH/sample-supertest/)** | Autor | Exemplo de estrutura de automação feita com Supertest, Mocha, Chai, entre outras libs |
-| **[Protractor Style Guide](https://github.com/PauloGoncalvesBH/protractor-style-guide)** | Autor | Exemplo de estrutura de uma automação feita com Protractor |
-| **[Gerencie seus post do Dev.to](https://github.com/PauloGoncalvesBH/gerencie-seus-posts-do-dev.to)** | Autor | Template para versionamento de post do dev.to |
-| **[Protractor Helper](https://www.npmjs.com/package/protractor-helper)** | Mantenedor | Lib de apoio na escrita de testes robustos e sem falhas com Protractor <br> ![npm](https://img.shields.io/npm/dm/protractor-helper?style=flat-square) |
-| **[QA Brasil - Vagas](https://github.com/qa-brasil/vagas)** | Mantenedor | Repositório de divulgação de vagas de QA <br> ![GitHub watchers](https://img.shields.io/github/watchers/qa-brasil/vagas?style=flat-square) |
-| **[Protractor Cucumber Steps](https://github.com/Marketionist/protractor-cucumber-steps/)** | Correção de bugs | Escrita de testes em Protractor com Cucumber |
-| **[Markdown Tutorial](https://agea.github.io/tutorial.md/)** | Tradução para PT-BR | Tutorial ensinando a usar Markdown |
+| **[ServeRest](https://github.com/PauloGoncalvesBH/ServeRest)** | Author | Local REST server for quick and easy API testing studies <br> ![Repository stars](https://img.shields.io/github/stars/serverest/serverest?style=flat-square) ![npm](https://img.shields.io/npm/dt/serverest?style=flat-square) ![docker pulls](https://img.shields.io/docker/pulls/paulogoncalvesbh/serverest?style=flat-square) |
+| **[Running E2E test on AWS Lambda](https://github.com/PauloGoncalvesBH/running-playwright-on-aws-lambda)** | Author | Running hundreds of Playwright tests in a few seconds with AWS Lambda <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/running-playwright-on-aws-lambda?style=flat-square) |
+| **[Unit Testing on Serverless Applications](https://github.com/PauloGoncalvesBH/lambda-unit-test)** | Author | Demonstration of implementing unit testing in serverless applications using the 'lambda-tester' library |
+| **[Learn Test Driven Development (TDD) in practice](https://github.com/PauloGoncalvesBH/aprenda-tdd-na-pratica)** | Author | A brief practical introduction to Test Driven Development (TDD) in JavaScript for people who want to write more reliable code <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/aprenda-tdd-na-pratica?style=flat-square) |
+| **[Git Training](https://github.com/PauloGoncalvesBH/treinamento-git)** | Author | Training on Git concepts, not commands <br> ![Repository stars](https://img.shields.io/github/stars/paulogoncalvesbh/treinamento-git?style=flat-square) |
+| **[Nirvana - Contract Test](https://github.com/PauloGoncalvesBH/contract-test-nirvana)** | Author | Demonstration of how to implement pipeline and contract tests for provider and consumer applications in a way that follows what is considered the Pact Nirvana. |
+| **[Fundamentals of External Spy and Mock Operation](https://github.com/PauloGoncalvesBH/my-framework-test)** | Author | Study of how spy, mock, expect and test structure are internally implemented. No use of external dependencies like Jest. |
+| **[Sample Supertest](https://github.com/PauloGoncalvesBH/sample-supertest/)** | Author | Example of automation structure made with Supertest, Mocha, Chai, among other libs |
+| **[Protractor Style Guide](https://github.com/PauloGoncalvesBH/protractor-style-guide)** | Author | Example of automation structure made with Protractor |
+| **[Manage Your Dev.to Posts](https://github.com/PauloGoncalvesBH/gerencie-seus-posts-do-dev.to)** | Author | Template for versioning dev.to posts |
+| **[Protractor Helper](https://www.npmjs.com/package/protractor-helper)** | Maintainer | Support library in writing robust and error-free tests with Protractor <br> ![npm](https://img.shields.io/npm/dm/protractor-helper?style=flat-square) |
+| **[QA Brazil - Jobs](https://github.com/qa-brasil/vagas)** | Maintainer | Repository for disseminating QA jobs <br> ![GitHub watchers](https://img.shields.io/github/watchers/qa-brasil/vagas?style=flat-square) |
+| **[Protractor Cucumber Steps](https://github.com/Marketionist/protractor-cucumber-steps/)** | Bug Fixer | Writing tests in Protractor with Cucumber |
+| **[Markdown Tutorial](https://agea.github.io/tutorial.md/)** | Translation to PT-BR | Tutorial teaching how to use Markdown |
 
-## Organização / Coordenação
+## Organization / Coordination
 
-| Comunidade | Período | Sobre |
+| Community | Period | About |
 |--|--|--|
-| **[Chai](https://github.com/chaijs/chai)** | 2019 até o momento | Principal framework de asserção de testes em JS <br> ![npm](https://img.shields.io/npm/dm/chai?style=flat-square) |
-| **[Podcast QAnsei](https://anchor.fm/qansei)** | 2020 até o momento | Podcast do coletivo [Agile Testers](https://agiletesters.com.br/) focado em qualidade de software |
-| **[Meetup Testing Dojo Uai](https://www.meetup.com/pt-BR/Testing-Dojo-Uai/)** | 2017 a 2018 | Meetup de palestras e treinamentos em Belo Horizonte/MG |
-| **Meetup Floripa Testing** | 2019 | Meetup de palestras em Florianópolis/SC |
-| **[QA Brasil](https://github.com/qa-brasil)** | 2020 até o momento | Comunidade que visa a democratização do conhecimento em QA sem lucros |
-| **[Coletivo Agile Testers](https://agiletesters.com.br/)** | 2020 até o momento | Coletivo de compartilhamento de conhecimento sobre qualidade de software e que mantém revista, podcast, fórum e lives.
+| **[Chai](https://github.com/chaijs/chai)** | 2019 until present | Main test assertion framework in JS <br> ![npm](https://img.shields.io/npm/dm/chai?style=flat-square) |
+| **[QAnsei Podcast](https://anchor.fm/qansei)** | 2020 until present | Podcast from [Agile Testers](https://agiletesters.com.br/) focused on software quality |
+| **[Testing Dojo Uai Meetup](https://www.meetup.com/pt-BR/Testing-Dojo-Uai/)** | 2017 to 2018 | Meetup for talks and training in Belo Horizonte/MG |
+| **Floripa Testing Meetup** | 2019 | Meetup for talks in Florianópolis/SC |
+| **[QA Brasil](https://github.com/qa-brasil)** | 2020 until present | Community aimed at democratizing knowledge in QA without profit |
+| **[Agile Testers Collective](https://agiletesters.com.br/)** | 2020 until present | Collective for sharing knowledge about software quality and which maintains a magazine, podcast, forum and live events.
 
 ## Podcasts
 
-- [**QAnsei** - Episódio _print(‘Hello World’)_](https://anchor.fm/qansei/episodes/printHello-World-ed4jui/a-a20jvmg)
+- [**QAnsei** - Episode _print(‘Hello World’)_](https://anchor.fm/qansei/episodes/printHello-World-ed4jui/a-a20jvmg)
 - [**Devs Cansados** - Episódio _22 = QA: Quem Atura?_](https://anchor.fm/devs-cansados/episodes/22--QA-Quem-Atura-eikcdt)
 - [**Scuba Dev** - QA sênior e deficiente auditivo: Paulo Gonçalves](https://www.scuba.dev.br/2021/11/01/qa-senior-e-deficiente-auditivo-paulo-goncalves/)
