@@ -38,13 +38,13 @@
 2. [REST API Automation - Jornada Learning 2020](https://github.com/PauloGoncalvesBH/automacao-api-rest-jornada-learning)
 3. [Who Tests the Tests? (Mutation Testing) - TDC Recife 2020](./Quem%20testa%20os%20testes%20-%20TDC%20Recife%202020.pdf)
 4. [Talk #104 - Mutation Testing - Pagar.me Talks](https://www.youtube.com/watch?v=1RNRl3tEtKk)
-6. [AT Talks: Contract Testing with Pact - Agile Testers](https://www.youtube.com/watch?v=1c2JmM9dafA)
-7. [DevTests #28: How to Implement Contract Testing with Pact](https://www.youtube.com/watch?v=e1-FK4aJgV4)
-8. [Importance of Unit Tests - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
-9. [DevCia Live talks - The Importance of Unit Tests - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
-10. [Talk #118: Running Playwright Tests on AWS Lambda - Pagar.me Talks -02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
-11. [TDC Innovation 2022: Why Contract Testing Is Different from API Testing Validating Schema? - 02/06/22](https://www.youtube.com/watch?v=i8SaIjEum0Q)
-12. [Codecon: DevQA > How to Measure Code Quality? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo) [- Video](https://youtu.be/R-49ah1CWiI?t=20905)
+5. [AT Talks: Contract Testing with Pact - Agile Testers](https://www.youtube.com/watch?v=1c2JmM9dafA)
+6. [DevTests #28: How to Implement Contract Testing with Pact](https://www.youtube.com/watch?v=e1-FK4aJgV4)
+7. [Importance of Unit Tests - Jornada Colaborativa 2021](https://summitonline3.jornadacolaborativa.com.br/)
+8. [DevCia Live talks - The Importance of Unit Tests - 15/07/21](https://www.youtube.com/watch?v=jSkO9jamhJA)
+9. [Talk #118: Running Playwright Tests on AWS Lambda - Pagar.me Talks - 02/09/21](https://www.youtube.com/watch?v=GivmPLQ_yrM)
+10. [TDC Innovation 2022: Why Contract Testing Is Different from API Testing Validating Schema? - 02/06/22](https://www.youtube.com/watch?v=i8SaIjEum0Q)
+11. [Codecon: DevQA > How to Measure Code Quality? - 22/09/22](https://www.codecon.dev/programacao/devqa-como-medir-qualidade-de-codigo) [- Video](https://youtu.be/R-49ah1CWiI?t=20905)
 
 
 ## Code Contributions
